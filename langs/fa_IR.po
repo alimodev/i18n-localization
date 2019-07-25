@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Loco Demo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-18 13:00+0000\n"
+"PO-Revision-Date: 2019-06-19 14:09+0430\n"
+"Last-Translator: \n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_DE\n"
+"X-Generator: Poedit 2.1.1\n"
+
+msgid "Hello World"
+msgstr "سلام جهان"
+
+# Example comment
+#. Example pluralized message
+#, php-format
+msgid "An example"
+msgid_plural "%s examples"
+msgstr[0] "یک مثال"
+msgstr[1] "%s ejemplos"
